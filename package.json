@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "slinkity": "^0.0.3-alpha.1"
+    "slinkity": "^0.0.3-alpha.2"
   }
 }
