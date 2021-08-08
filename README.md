@@ -1,4 +1,4 @@
-# Example Project from [A First Look at Slinkity]()
+# Example Project from [A First Look at Slinkity](https://dev.to/ajcwebdev/a-first-look-at-slinkity-3ig)
 
 Slinkity is an 11ty metaframework built with Vite that brings dynamic, client side interactions to your static 11ty sites. It enables turning existing `.html` or `.liquid` files into `.jsx` files. Slinkity includes shortcodes to insert components into existing pages such as, `{% react './path/to/component.jsx' %}`. Because component-driven pages are hydrated on the client, dynamic state management works in both development and production. It aims to unify two competing camps in the current web development community:
 * Lean, JavaScript-free static site generators driven by data and templating languages like Jekyll and Hugo.
