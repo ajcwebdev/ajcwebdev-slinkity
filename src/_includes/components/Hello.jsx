@@ -1,6 +1,6 @@
 import React from "react"
 
-const component = () => {
+const Hello = () => {
   return (
     <>
       <span>The quality or condition of a slinky</span>
@@ -8,4 +8,4 @@ const component = () => {
   )
 }
 
-export default component
+export default Hello
