@@ -1,5 +1,5 @@
 # ajcwebdev-slinkity
 
-{% react 'components/Hello.jsx' %}
+{% react 'components/Hello' %}
 
-{% react 'components/Counter.jsx' %}
+{% react 'components/Counter' %}
