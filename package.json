@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "slinkity --serve",
+    "build": "slinkity"
+  },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0-beta.2",
     "slinkity": "^0.2.0"
